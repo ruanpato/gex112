@@ -23,7 +23,7 @@ Repository created to store my exercises and works related to the mandatory curr
 
 ### 🔃 Substitution Cypher [🔗](https://ruanpato.github.io/gex112/substitution-cypher/) ###
 
-### 🔏 RSA [🔗](https://ruanpato.github.io/gex112/substition-cypher/) ###
+### 🔏 RSA [🔗](https://ruanpato.github.io/gex112/rsa/) ###
 
 ### 💡 Free Theme Tutorial [🔗](https://ruanpato.github.io/gex112/free-theme-tutorial/) ###
 
