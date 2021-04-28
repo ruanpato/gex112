@@ -1,6 +1,6 @@
 # 💡 Free Theme Tutorial [🔗](https://github.com/ruanpato/gex112/tree/main/free-theme-tutorial) #
 
-[🔙](https://github.com/ruanpato/gex112).
+[🔙](https://ruanpato.github.io/gex112/).
 This is a homework about Digital Certificates.
 
 ## 📑 Summary ##

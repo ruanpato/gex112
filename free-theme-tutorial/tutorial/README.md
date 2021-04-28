@@ -1,3 +1,3 @@
 # Tutorial #
 
-[🔙](https://github.com/ruanpato/gex112/free-theme-tutorial).
+[🔙](https://ruanpato.github.io/gex112/free-theme-tutorial)
