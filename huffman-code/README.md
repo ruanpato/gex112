@@ -1,5 +1,6 @@
-# 🗜️ Huffman Code [🔗](https://github.com/ruanpato/gex112/tree/master/huffman-code) #
+# 🗜️ Huffman Code [🔗](https://github.com/ruanpato/gex112/tree/main/huffman-code) #
 
+[🌳 Repository of this section](https://github.com/ruanpato/gex112).
 This is a homework about Digital Certificates and is part of course section "Entropy".
 
 ## 📑 Summary ##

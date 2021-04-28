@@ -1,5 +1,6 @@
-# ✍️ Digital Certificates [🔗](https://github.com/ruanpato/gex112/tree/master/digital-certificates) #
+# ✍️ Digital Certificates [🔗](https://github.com/ruanpato/gex112/tree/main/digital-certificates) #
 
+[🌳 Repository of this section](https://github.com/ruanpato/gex112).
 This is a homework about Digital Certificates and is part of course section "Introduction to Crpytography".
 
 ## 📑 Summary ##

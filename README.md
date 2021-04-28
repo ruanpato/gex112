@@ -7,27 +7,25 @@ Repository created to store my exercises and works related to the mandatory curr
 - [gex112 - Segurança e Auditoria de Sistemas 🔗](#gex112---segurança-e-auditoria-de-sistemas-)
   - [📑 Summary](#-summary)
   - [💼 Homeworks](#-homeworks)
-    - [✍️ Digital Certificates](#️-digital-certificates)
-    - [🗜️ Huffman Code](#️-huffman-code)
-    - [🔃 Substition Cypher](#-substition-cypher)
-    - [🔏 RSA](#-rsa)
-    - [💡 Free Theme](#-free-theme)
+    - [✍️ Digital Certificates 🔗](#️-digital-certificates-)
+    - [🗜️ Huffman Code 🔗](#️-huffman-code-)
+    - [🔃 Substitution Cypher 🔗](#-substitution-cypher-)
+    - [🔏 RSA 🔗](#-rsa-)
+    - [💡 Free Theme Tutorial 🔗](#-free-theme-tutorial-)
   - [🗞️ License](#️-license)
   - [👥 Author](#-author)
 
 ## 💼 Homeworks ##
 
-### ✍️ Digital Certificates ###
+### ✍️ Digital Certificates [🔗](https://github.com/ruanpato/gex112/tree/main/digital-certificates) ###
 
-- [✍️ Digital Certificates 🔗](https://github.com/ruanpato/gex112/tree/master/digital-certificates)
+### 🗜️ Huffman Code [🔗](https://github.com/ruanpato/gex112/tree/main/huffman-code) ###
 
-### 🗜️ Huffman Code ###
+### 🔃 Substitution Cypher [🔗](https://github.com/ruanpato/gex112/tree/main/substitution-cypher) ###
 
-### 🔃 Substition Cypher ###
+### 🔏 RSA [🔗](https://github.com/ruanpato/gex112/tree/main/substition-cypher) ###
 
-### 🔏 RSA ###
-
-### 💡 Free Theme ###
+### 💡 Free Theme Tutorial [🔗](https://github.com/ruanpato/gex112/tree/main/free-theme-tutorial) ###
 
 ## 🗞️ License ##
 
