@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#596fa8",
+    "activityBar.foreground": "#fff",
+    "activityBar.inactiveForeground": "#2f2727",
+    "titleBar.activeBackground": "#596fa8",
+    "titleBar.activeForeground": "#fff"
+  },
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": true,
+  "files.eol": "\n",
+  "totvsLanguageServer.welcomePage": false
+}

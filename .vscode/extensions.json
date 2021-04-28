@@ -1,0 +1,23 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "aaron-bond.better-comments",
+        "teabyii.ayu",
+        "formulahendry.auto-rename-tag",
+        "eamodio.gitlens",
+        "tobiashansson.html-validate-vscode",
+        "ritwickdey.liveserver",
+        "yzhang.markdown-all-in-one",
+        "yzane.markdown-pdf",
+        "shd101wyy.markdown-preview-enhanced",
+        "pkief.material-icon-theme",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "umoxfo.vscode-w3cvalidation",
+        "ms-azuretools.vscode-docker",
+        "p1c2u.docker-compose",
+        "ms-vscode.cpptools",
+        "vscjava.vscode-java-pack",
+        "felixfbecker.php-intellisense"
+    ]
+}
