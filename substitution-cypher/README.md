@@ -1,6 +1,6 @@
 # 🔃 Substitution Cypher [🔗](https://github.com/ruanpato/gex112/tree/main/substition-cypher) #
 
-[🌳 Repository of this section](https://github.com/ruanpato/gex112).
+[🔙](https://ruanpato.github.io/gex112/).
 This is a homework about Digital Certificates and is part of course section "Classic Cyphers".
 
 ## 📑 Summary ##

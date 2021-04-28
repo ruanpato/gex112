@@ -17,15 +17,15 @@ Repository created to store my exercises and works related to the mandatory curr
 
 ## 💼 Homeworks ##
 
-### ✍️ Digital Certificates [🔗](https://github.com/ruanpato/gex112/tree/main/digital-certificates) ###
+### ✍️ Digital Certificates [🔗](https://ruanpato.github.io/gex112/digital-certificates) ###
 
-### 🗜️ Huffman Code [🔗](https://github.com/ruanpato/gex112/tree/main/huffman-code) ###
+### 🗜️ Huffman Code [🔗](https://ruanpato.github.io/gex112/huffman-code) ###
 
-### 🔃 Substitution Cypher [🔗](https://github.com/ruanpato/gex112/tree/main/substitution-cypher) ###
+### 🔃 Substitution Cypher [🔗](https://ruanpato.github.io/gex112/substitution-cypher) ###
 
-### 🔏 RSA [🔗](https://github.com/ruanpato/gex112/tree/main/substition-cypher) ###
+### 🔏 RSA [🔗](https://ruanpato.github.io/gex112/substition-cypher) ###
 
-### 💡 Free Theme Tutorial [🔗](https://github.com/ruanpato/gex112/tree/main/free-theme-tutorial) ###
+### 💡 Free Theme Tutorial [🔗](https://ruanpato.github.io/gex112/free-theme-tutorial) ###
 
 ## 🗞️ License ##
 
