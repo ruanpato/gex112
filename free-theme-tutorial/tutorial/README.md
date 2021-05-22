@@ -1,6 +1,6 @@
 # Tutorial #
 
-[🔙](https://ruanpato.github.io/gex112/free-theme-tutorial)
+[🔙](https://ruanpato.github.io/gex112/free-theme-tutorial). This is a homework about Digital Certificates.
 
 ## Sumary ##
 
@@ -79,6 +79,8 @@ To sign a tag use -s flag:
 ```bash
 git tag -v v14.20
 ```
+
+Example of Signed Commit <https://github.com/ruanpato/gex112/commit/ac21a6f48d6dd7329318458bb2d826c8c527e690>
 
 ## Reference ##
 
