@@ -16,7 +16,10 @@ This is a homework about Digital Certificates and is part of course section "Cla
 
 Solve this URI problem: <https://www.urionlinejudge.com.br/judge/en/problems/view/1716>.
 
-## 🏁 How to run this code ##
+## 🏁 Solution ##
+
+- [✔️ Accepted](https://github.com/ruanpato/gex112/blob/main/rsa/rsa.c)
+- [❌ 20% Wrong Answer](https://github.com/ruanpato/gex112/blob/main/rsa/rsa.js)
 
 ## 🗞️ License ##
 
